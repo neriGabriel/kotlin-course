@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3debded3-323b-4621-afb4-6a30f4d3678a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/IO/JogoDaForca.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IO/NumberGuessing.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inputfile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IO/ReadingFile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/IO/ReadingFile.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
       <recent name="C:\Users\T-Gamer\IdeaProjects\kotlin\src\Conditionals" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.IO.JogoDaForcaKt">
+  <component name="RunManager" selected="Kotlin.IO.ReadingFileKt">
     <configuration name="IO.JogoDaForcaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin" />
       <option name="VM_PARAMETERS" />
@@ -67,6 +67,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="IO.NumberGuessingKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IO.ReadingFileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="IO.ReadingFileKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,26 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Poo.GetterSetter.GetterAndSetterExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Poo.GetterSetter.GetterAndSetterExampleKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.IO.ReadingFileKt" />
         <item itemvalue="Kotlin.IO.JogoDaForcaKt" />
         <item itemvalue="Kotlin.IO.NumberGuessingKt" />
         <item itemvalue="Kotlin.Poo.Generics.GenericFunctionsKt" />
         <item itemvalue="Kotlin.Poo.Generics.StackKt" />
-        <item itemvalue="Kotlin.Poo.GetterSetter.GetterAndSetterExampleKt" />
       </list>
     </recent_temporary>
   </component>
