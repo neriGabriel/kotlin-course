@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3debded3-323b-4621-afb4-6a30f4d3678a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenges/BookChallenge.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Poo/Class/Car.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Poo/Class/FirstClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Poo/Class/Person.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Poo/NamedParamsDefaultValue/House.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Poo/OpenClassInheritance/Student.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Poo/AbstractClass/Employee.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Poo/Interface/Interface.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Poo/OpenClassInheritance/Student.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Poo/OpenClassInheritance/Student.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +46,7 @@
       <recent name="C:\Users\T-Gamer\IdeaProjects\kotlin\src\Conditionals" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Poo.OpenClassInheritance.StudentKt">
+  <component name="RunManager" selected="Kotlin.Poo.Interface.InterfaceKt">
     <configuration name="Challenges.BookChallengeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin" />
       <option name="VM_PARAMETERS" />
@@ -64,27 +60,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Poo.Class.CarKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Poo.AbstractClass.EmployeeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Poo.Class.CarKt" />
+      <option name="MAIN_CLASS_NAME" value="Poo.AbstractClass.EmployeeKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Poo.Class.PersonKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Poo.Interface.InterfaceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Poo.Class.PersonKt" />
+      <option name="MAIN_CLASS_NAME" value="Poo.Interface.InterfaceKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Poo.Interface.InterfaceKt" />
+        <item itemvalue="Kotlin.Poo.AbstractClass.EmployeeKt" />
         <item itemvalue="Kotlin.Poo.OpenClassInheritance.StudentKt" />
         <item itemvalue="Kotlin.Poo.NamedParamsDefaultValue.HouseKt" />
         <item itemvalue="Kotlin.Challenges.BookChallengeKt" />
-        <item itemvalue="Kotlin.Poo.Class.CarKt" />
-        <item itemvalue="Kotlin.Poo.Class.PersonKt" />
       </list>
     </recent_temporary>
   </component>
@@ -151,22 +147,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1586439526424">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1586440891660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586439526424" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1586439526424">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586440891660" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1586440891660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586439526424" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1586439526424">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586440891660" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1586440891660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586439526424" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1586439526424">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586440891660" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1586440891660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586439526424" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586440891660" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1586380552003">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

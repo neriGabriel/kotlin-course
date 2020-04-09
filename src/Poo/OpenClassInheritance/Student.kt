@@ -1,7 +1,7 @@
 package Poo.OpenClassInheritance
 
 
-open class Person(open val name: String, open val age: Int) {
+open class Person2(open val name: String, open val age: Int) {
     init {}
 
     fun speak() {
@@ -15,15 +15,12 @@ open class Person(open val name: String, open val age: Int) {
     fun getYearOfBirth() = 2020 - age;
 }
 
-class Student(override val name: String, override val age: Int, val id: Long): Person(name, age) {
+class Student(override val name: String, override val age: Int, val id: Long): Person2(name, age) {
     fun getId() {
         println(id);
     }
 }
 
-class Employee(override val name: String, override val age: Int ): Person(name, age)  {
-
-}
 
 fun main(args: Array<String>) {
     val student = Student("Gabriel", 22, 45497834);
