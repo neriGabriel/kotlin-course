@@ -1,3 +1,5 @@
+package Collections
+
 fun main(args: Array<String>) {
     /*IN KOTLIN arrays you cant change the values*/
     val array = arrayOf("Nova Odessa", "Americana", "Santa Barbara");

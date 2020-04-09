@@ -1,3 +1,5 @@
+package Challenges
+
 import java.util.*
 
 fun main(args: Array<String>) {

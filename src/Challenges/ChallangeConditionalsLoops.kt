@@ -1,3 +1,5 @@
+package Challenges
+
 fun main(args: Array<String>) {
     val books = arrayListOf("Programming with head", "Game of thrones", "Shingeky no kyojin");
     for(book in books) {

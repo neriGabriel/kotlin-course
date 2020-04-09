@@ -1,3 +1,5 @@
+package Functions
+
 import java.util.*
 
 fun main(args: Array<String>) {

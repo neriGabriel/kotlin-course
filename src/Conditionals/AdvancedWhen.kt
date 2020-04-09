@@ -1,3 +1,5 @@
+package Conditionals
+
 fun main(args: Array<String>) {
     val x: Int = 10;
     when(x) {
